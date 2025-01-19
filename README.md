@@ -27,4 +27,7 @@ leadworkflow
 Dashboard Design
 
 ## Dataset Used:
-- <a href="https://github.com/manavpatel7220/olaDataAnalyticsproject/blob/main/booking.csv">Dataset</a>
+- <a href="https://github.com/manavpatel7220/-Health-Hospital-Work-and-Leads-Workflow-Dashboard/blob/main/Dataset.xlsx">Dataset</a>
+
+# Dashboard Interaction 
+<a href="https://github.com/manavpatel7220/-Health-Hospital-Work-and-Leads-Workflow-Dashboard/blob/main/project.png">View Dashboard</a>
